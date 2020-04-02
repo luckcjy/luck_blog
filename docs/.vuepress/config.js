@@ -75,7 +75,7 @@ module.exports = {
     lastUpdated: "Last Updated",
     author: "luck",
     authorAvatar: "/avatar.png",
-    record: "xxxx",
+    record: "以己度人",
     startYear: "2017"
   },
   markdown: {
